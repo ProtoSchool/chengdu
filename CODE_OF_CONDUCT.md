@@ -67,8 +67,8 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the chapter organizing team at
-**[EMAIL](mailto:EMAIL)**. All complaints
+reported by contacting chapter organizer **Taosheng Shi** at 
+**[taoshengshi01@gmail.com](mailto:taoshengshi01@gmail.com)**. All complaints
 will be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The chapter organizing team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
