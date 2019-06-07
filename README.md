@@ -1,14 +1,13 @@
-# ProtoSchool LOCATION
+# ProtoSchool Chengdu
 
-Welcome to the LOCATION chapter of [ProtoSchool](https://proto.school)!
+Welcome to the Chengdu chapter of [ProtoSchool](https://proto.school)!
 
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
 ## Organizers
 
 Our chapter's leadership team includes:
-* NAME ([@HANDLE](https://github.com/HANDLE))
-* NAME ([@HANDLE](https://github.com/HANDLE))
+* Taosheng Shi ([@taoshengshi](https://github.com/taoshengshi))
 
 ## Code of Conduct
 
