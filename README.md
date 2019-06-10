@@ -6,7 +6,7 @@ We are a group of people passionate about the decentralized web and excited to l
 
 We focus on building IPFS ecosystem (Decentralized Storage Network) cooperate with [Protocol Labs](https://protocol.ai/).  
 
-Everyone is welcome to join us to learn, to preach, to research, to develop, to share ideas of the amazing tech together!   
+Everyone is welcome to join us to learn, to promote, to research, to develop, and to share ideas of the amazing tech together!   
 :raised_hands:
 ## Preliminaries
 
