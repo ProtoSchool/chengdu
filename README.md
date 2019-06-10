@@ -4,23 +4,32 @@ Welcome to the Chengdu chapter of [ProtoSchool](https://proto.school)!
 
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
-We focus on building IPFS ecosystem (Decentralized Storage Network) cooperate with [Protocol Labs](https://protocol.ai/).  
+We focus on building the ecosystem around [IPFS](https://ipfs.io/) (a decentralized networking protocol), and [Filecoin](https://filecoin.io/) (a cryptocurrency-powered decentralized storage network), both open source projects sponsored by [Protocol Labs](https://protocol.ai/).
 
 Everyone is welcome to join us to learn, to promote, to research, to develop, and to share ideas of the amazing tech together!   
 :raised_hands:
+
 ## Preliminaries
 
 Everyone should read Code of Conduct below firstly ！
 
-Everyone should follow this [Chapter Chengdu Slides Template](https://docs.google.com/presentation/d/1itLIYBr_z9MgsueJFT2ckAJs56Xuq3T-LlG59kQljb4/edit)
+Everyone should follow this [Chapter Chengdu Slides Template](./meetup/chapterchengdu_template.pptx)
 
 This repo support two language :[![](https://img.shields.io/badge/Lang-English-blue.svg)](README.md)  [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)   
 
 ## Meetup
 
-* [Chapter Chengdu Kickoff Meetup](https://docs.google.com/presentation/d/1itLIYBr_z9MgsueJFT2ckAJs56Xuq3T-LlG59kQljb4/edit)
-* [Chapter Chengdu Meetup - July 2019]()
+ “If you can't explain it simply, you don't understand it well enough.” - Albert Einstein.
+
+* [Chapter Chengdu Kickoff Meetup](https://github.com/ProtoSchool/chengdu/issues/6)
+* [Chapter Chengdu Meetup - July 2019 - tbd]()
  
+## Research
+We follow the research philosophy of [the Feynman algorithm](http://wiki.c2.com/?FeynmanAlgorithm) to solve hard problem. 
+
+![research and engineering](./research/pictures/the-feynman-algorithm.jpg)  
+
+
 
 ## Organizers
 
