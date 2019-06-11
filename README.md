@@ -22,7 +22,7 @@ This repo support two language :[![](https://img.shields.io/badge/Lang-English-b
  “If you can't explain it simply, you don't understand it well enough.” - Albert Einstein.
 
 * [Chapter Chengdu Kickoff Meetup](https://github.com/ProtoSchool/chengdu/issues/6)
-* [Chapter Chengdu Meetup - July 2019 - tbd]()
+* Chapter Chengdu Meetup - July 2019 - coming soon
  
 ## Research
 We follow the research philosophy of [the Feynman algorithm](http://wiki.c2.com/?FeynmanAlgorithm) to solve hard problem. 
