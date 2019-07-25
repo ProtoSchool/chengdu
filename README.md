@@ -21,8 +21,8 @@ This repo support two language :[![](https://img.shields.io/badge/Lang-English-b
 
  “If you can't explain it simply, you don't understand it well enough.” - Albert Einstein.
 
-* [Chapter Chengdu Kickoff Meetup](https://github.com/ProtoSchool/chengdu/issues/6)
-* Chapter Chengdu Meetup - July 2019 - coming soon
+* [Tech Meetup & Chapter Chengdu Kickoff - Recall](./meetup/07212019/活动回顾--『协议学院%20·%20成都分院%20·%20开院典礼』.md)
+* Chapter Chengdu Meetup - next session - coming soon
 
  
 ## Research
